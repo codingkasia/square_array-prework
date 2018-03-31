@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |arr|
     new_arr.push(arr * arr)
   end
-  my_sqrt
+  new_arr
 end
